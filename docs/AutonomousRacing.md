@@ -2,7 +2,6 @@
 layout: default
 title: "Autonomous Racing"
 linkTitle: "Autonomous Racing"
-nav_order: 5
 description: Autonomous Racing
 ---
 

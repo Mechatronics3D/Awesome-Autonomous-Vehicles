@@ -2,7 +2,6 @@
 layout: default
 title: "Connected Vehicles"
 linkTitle: "Connected Vehicles"
-nav_order: 5
 description: Connected Vehicles
 ---
 

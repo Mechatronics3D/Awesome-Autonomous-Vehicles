@@ -2,7 +2,6 @@
 layout: default
 title: "Hardware"
 linkTitle: "Hardware"
-nav_order: 5
 description: Hardware suppliers for autonomous vehicles
 ---
 
